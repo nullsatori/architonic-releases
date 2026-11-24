@@ -1,0 +1,31 @@
+{
+  "version": "0.6.0",
+  "notes": "- Приложение само находит новые версии, скачивает их в фоне и ставит по кнопке «Перезапустить и обновить».\n- Раздел «Обновления» в настройках: ручная проверка, канал Стабильный или Бета.\n- Лицензионный ключ: вводится при первом запуске или в Настройки → Система → Лицензия.",
+  "pub_date": "2026-11-24T23:10:07.029Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNDRvQm01TTVsQllhWGo1VUpFWU5VSDlTOG9pRnRuY3ByQmVhZ2szSFllajFpakNMcml4bWJmQXZmdFEzdGFsZXRpa3RBNXRQYzc5NjZZTGsrS1RBMmZwZXp4NDQ2WGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxNDUzCWZpbGU6QXJjaGl0b25pYyBDb21tYW5kZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuNi4wCmF3ZjdRT0lMSG9MdmlkUGlzUk5RZm5wVHVGSWY5WnpHYXdHc0RycFRJd1k2K1hMM2JqRmV5TlZ4cXo3MTBEaHlDWmUyV0Q4WEdrdW9qOEVnWnk1cEFRPT0K",
+      "url": "https://github.com/nullsatori/architonic-releases/releases/download/v0.6.0/Architonic.Commander_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNDRvQm01TTVsQllhWGo1VUpFWU5VSDlTOG9pRnRuY3ByQmVhZ2szSFllajFpakNMcml4bWJmQXZmdFEzdGFsZXRpa3RBNXRQYzc5NjZZTGsrS1RBMmZwZXp4NDQ2WGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxNDUzCWZpbGU6QXJjaGl0b25pYyBDb21tYW5kZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuNi4wCmF3ZjdRT0lMSG9MdmlkUGlzUk5RZm5wVHVGSWY5WnpHYXdHc0RycFRJd1k2K1hMM2JqRmV5TlZ4cXo3MTBEaHlDWmUyV0Q4WEdrdW9qOEVnWnk1cEFRPT0K",
+      "url": "https://github.com/nullsatori/architonic-releases/releases/download/v0.6.0/Architonic.Commander_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNDRvQm01TTVsQlVrdXloRjN0TFRjdldsUEtncS9kOFJWeGp4YS9TUzViaUIwOXBScWJmZ3RnNGtyYUJ2bzB3Q0ljckZRVDE2TXNyYUlrbnZBM3NHOC9tOHJwN3d4RWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxNDU5CWZpbGU6QXJjaGl0b25pYyBDb21tYW5kZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuNi4wCktHdVo0TGdjUXB1Z05YbllnWlJ2dEtINGRxVEZoNVBUN3lWT0U0UmlBZzVPaytrWitWc1UvZ2VJNVBIL0xQWmJ2UlhXeUV6UkovWVpWRHNBaE5pTkFnPT0K",
+      "url": "https://github.com/nullsatori/architonic-releases/releases/download/v0.6.0/Architonic.Commander_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNDRvQm01TTVsQlVrdXloRjN0TFRjdldsUEtncS9kOFJWeGp4YS9TUzViaUIwOXBScWJmZ3RnNGtyYUJ2bzB3Q0ljckZRVDE2TXNyYUlrbnZBM3NHOC9tOHJwN3d4RWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxNDU5CWZpbGU6QXJjaGl0b25pYyBDb21tYW5kZXIuYXBwLnRhci5negl2ZXJzaW9uOjAuNi4wCktHdVo0TGdjUXB1Z05YbllnWlJ2dEtINGRxVEZoNVBUN3lWT0U0UmlBZzVPaytrWitWc1UvZ2VJNVBIL0xQWmJ2UlhXeUV6UkovWVpWRHNBaE5pTkFnPT0K",
+      "url": "https://github.com/nullsatori/architonic-releases/releases/download/v0.6.0/Architonic.Commander_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNDRvQm01TTVsQlVPM1g2ci9XaXZCZ0RCRDNNTFhWVkR0bXN5YU0yR3JrY1hXc1ZPWGJJUlFuYVc1SWtNYjgxeWU2cFBBdGpETXJqTG05czJkYWYrRGlYM1ZxeURYdkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxODAyCWZpbGU6QXJjaGl0b25pYyBDb21tYW5kZXJfMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCmMxYzBhZSt5WjRuZlZDRkRVUEZoR1FxMCsxNzRyTXNNVVk0UmN5T2Fvekdmek1UQTY5VmNKeFlGWHd3YVNVaFRFVmxGN280bXJ2a2NFRUtlalRoTUR3PT0K",
+      "url": "https://github.com/nullsatori/architonic-releases/releases/download/v0.6.0/Architonic.Commander_0.6.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNDRvQm01TTVsQlVPM1g2ci9XaXZCZ0RCRDNNTFhWVkR0bXN5YU0yR3JrY1hXc1ZPWGJJUlFuYVc1SWtNYjgxeWU2cFBBdGpETXJqTG05czJkYWYrRGlYM1ZxeURYdkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxODAyCWZpbGU6QXJjaGl0b25pYyBDb21tYW5kZXJfMC42LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNi4wCmMxYzBhZSt5WjRuZlZDRkRVUEZoR1FxMCsxNzRyTXNNVVk0UmN5T2Fvekdmek1UQTY5VmNKeFlGWHd3YVNVaFRFVmxGN280bXJ2a2NFRUtlalRoTUR3PT0K",
+      "url": "https://github.com/nullsatori/architonic-releases/releases/download/v0.6.0/Architonic.Commander_0.6.0_x64-setup.exe"
+    }
+  }
+}
